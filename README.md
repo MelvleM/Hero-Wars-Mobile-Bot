@@ -19,3 +19,12 @@ Permissions and Restrictions:
 You are able to invite bot to your discord servers and set channel to recieve reminder.
 You are able to set and add user's timezone to recieve reminder message.
 You can not use Hero Wars Mobile Bot for any business purpose.
+
+
+
+
+PRIVACY POLICY
+Information we collect as you use our services:
+
+We collect guild id and channel id use for sending message.
+We collect user id and timezone information when user add them to the bot.
